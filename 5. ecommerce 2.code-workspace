@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../__MACOSX"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "5. ecommerce 2"
+	}
+}
